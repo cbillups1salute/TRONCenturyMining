@@ -1,21 +1,13 @@
 {
     "name":"TRON CenturyMining",
     "tokens":[
-    {
-            "symbol":"TRX",
-            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
-            "chainId":1,
-            "decimals":6,
-            "name":"TRX",
-            "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
-    },
-    {
-            "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+    { 
+            "symbol":"JST",
+            "address":"TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
             "chainId":1,
             "decimals":18,
-            "name":"SUN TOKEN",
-            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+            "name":"JUST GOV v1.0",
+            "logoURI":"https://coin.top/production/logo/just_icon.png"
     },
     {
             "symbol":"WBTT",
@@ -26,12 +18,13 @@
             "logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
     },
     {
-            "symbol":"JST",
-            "address":"TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+           
+            "symbol":"SUN",
+            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
             "chainId":1,
             "decimals":18,
-            "name":"JUST GOV v1.0",
-            "logoURI":"https://coin.top/production/logo/just_icon.png"
+            "name":"SUN TOKEN",
+            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
     },
     {
             "symbol":"WIN",
